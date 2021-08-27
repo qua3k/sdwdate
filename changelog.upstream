@@ -1,3 +1,63 @@
+commit 6a5f55f940a6f9dc3cd5c3cb12b9b93f85d63024
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Aug 22 06:34:21 2021 -0400
+
+    fix
+
+commit 5ce60cce3751657c565e46190e52697880caf735
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Aug 22 06:27:15 2021 -0400
+
+    bumped changelog version
+
+commit 23a24206567bd27134b68e459ae9b1c4b75f68de
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Aug 22 05:57:08 2021 -0400
+
+    deny /usr/sbin/ldconfig rix,
+
+commit 3729e1fef98fb072a4f47dff0599d25f3cd17073
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Aug 22 05:31:35 2021 -0400
+
+    bumped changelog version
+
+commit 54fbe63c4c883bebf7928adc6e130765642ca162
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Aug 22 05:22:49 2021 -0400
+
+    LANG=C str_replace
+
+commit 279fe80634056d7309c22f72ba02cf8eb2017141
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Aug 21 19:48:39 2021 -0400
+
+    bumped changelog version
+
+commit 046a1c00b9aa4b578f16e88e0cc355776dd15c08
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Aug 21 19:48:25 2021 -0400
+
+    Conflicts: time-daemon
+
+commit eaaf003438b55a839d022c49cefcf2076efdc45e
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Aug 21 19:46:05 2021 -0400
+
+    refactoring
+
+commit 11361d7fbfdf4a5e5762d407fef25e9bd1593d07
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Aug 21 19:45:00 2021 -0400
+
+    Replaces: time-daemon
+
+commit 114caddd3680bdea5b479a726b710f4838ce407a
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Aug 6 17:05:28 2021 -0400
+
+    bumped changelog version
+
 commit 9fee551dca38a7cc5cf940224f3a08cdae6c1956
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Fri Aug 6 16:47:51 2021 -0400
